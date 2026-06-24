@@ -1,0 +1,61 @@
+imagem,filtro,mse,psnr,melhor_filtro
+jw-15min 1,mediana,6.9414,39.72,True
+jw-15min 1,gaussiano,7.9432,39.13,False
+jw-15min 1,fft,109.5369,27.74,False
+jw-15min 2,mediana,6.2785,40.15,True
+jw-15min 2,gaussiano,6.7744,39.82,False
+jw-15min 2,fft,92.5228,28.47,False
+jw-15min 3,mediana,7.4769,39.39,False
+jw-15min 3,gaussiano,6.8284,39.79,True
+jw-15min 3,fft,52.1464,30.96,False
+jw-15min 4,mediana,7.7663,39.23,True
+jw-15min 4,gaussiano,8.2479,38.97,False
+jw-15min 4,fft,92.0179,28.49,False
+jw-15min 5,mediana,7.9462,39.13,True
+jw-15min 5,gaussiano,9.5222,38.34,False
+jw-15min 5,fft,143.9411,26.55,False
+jw-1h 1,mediana,9.6227,38.3,True
+jw-1h 1,gaussiano,10.8547,37.77,False
+jw-1h 1,fft,134.8019,26.83,False
+jw-1h 2,mediana,8.5457,38.81,True
+jw-1h 2,gaussiano,9.9616,38.15,False
+jw-1h 2,fft,134.168,26.85,False
+jw-1h 3,mediana,6.1958,40.21,True
+jw-1h 3,gaussiano,7.4025,39.44,False
+jw-1h 3,fft,121.0111,27.3,False
+jw-1h 4,mediana,9.8121,38.21,True
+jw-1h 4,gaussiano,11.1159,37.67,False
+jw-1h 4,fft,151.2491,26.33,False
+jw-1h 5,mediana,7.5155,39.37,True
+jw-1h 5,gaussiano,7.7102,39.26,False
+jw-1h 5,fft,84.0287,28.89,False
+jw-24h 1,mediana,8.2424,38.97,True
+jw-24h 1,gaussiano,9.26,38.46,False
+jw-24h 1,fft,134.1009,26.86,False
+jw-24h 2,mediana,9.751,38.24,True
+jw-24h 2,gaussiano,12.2016,37.27,False
+jw-24h 2,fft,185.7781,25.44,False
+jw-24h 3,mediana,10.5093,37.92,True
+jw-24h 3,gaussiano,11.8006,37.41,False
+jw-24h 3,fft,145.2165,26.51,False
+jw-24h 4,mediana,5.1503,41.01,True
+jw-24h 4,gaussiano,5.3043,40.88,False
+jw-24h 4,fft,67.1262,29.86,False
+jw-24h 5,mediana,6.4638,40.03,False
+jw-24h 5,gaussiano,6.4397,40.04,True
+jw-24h 5,fft,64.1215,30.06,False
+jw-2h 1,mediana,8.3696,38.9,True
+jw-2h 1,gaussiano,8.6385,38.77,False
+jw-2h 1,fft,88.3876,28.67,False
+jw-2h 2,mediana,10.0938,38.09,False
+jw-2h 2,gaussiano,9.7227,38.25,True
+jw-2h 2,fft,70.0139,29.68,False
+jw-Kontrolle1,mediana,25.0864,34.14,False
+jw-Kontrolle1,gaussiano,22.4156,34.63,True
+jw-Kontrolle1,fft,104.0249,27.96,False
+jw-Kontrolle2,mediana,7.9809,39.11,True
+jw-Kontrolle2,gaussiano,8.575,38.8,False
+jw-Kontrolle2,fft,102.7601,28.01,False
+jw-Kontrolle3,mediana,4.1027,42.0,True
+jw-Kontrolle3,gaussiano,4.513,41.59,False
+jw-Kontrolle3,fft,71.0283,29.62,False
